@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "luminarium:block/radiant_ore"
+    }
+  }
+}
