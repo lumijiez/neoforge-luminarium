@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 10.0,
+  "ingredient": [
+    {
+      "item": "luminarium:radiant_ore"
+    },
+    {
+      "item": "luminarium:raw_luminarium_ore"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "luminarium:luminarium_ingot"
+  }
+}

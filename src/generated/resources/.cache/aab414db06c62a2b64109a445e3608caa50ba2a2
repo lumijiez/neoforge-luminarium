@@ -1,0 +1,5 @@
+// 1.20.6	2024-06-06T12:02:21.6342227	Tags for minecraft:item mod id luminarium
+d7a955a629fd32be4eb5e13e7b70659c2b9de27e data/c/tags/items/ingots.json
+d091de0909b8ed758bec8622d2db4f5dfa088bad data/c/tags/items/ores.json
+493abfc5b600e48de2e081f8df5c5a75d4ec0526 data/forge/tags/items/ingots/luminarium.json
+cd0813c84340cbe9b7104515af2ee61c23e0a6c2 data/forge/tags/items/ores/luminarium.json

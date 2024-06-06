@@ -1,0 +1,4 @@
+// 1.20.6	2024-06-06T12:02:21.6327173	vanilla/Tags for minecraft:block mod id luminarium
+cd0813c84340cbe9b7104515af2ee61c23e0a6c2 data/forge/tags/blocks/ores/luminarium.json
+cd0813c84340cbe9b7104515af2ee61c23e0a6c2 data/minecraft/tags/blocks/mineable/pickaxe.json
+cd0813c84340cbe9b7104515af2ee61c23e0a6c2 data/minecraft/tags/blocks/needs_diamond_tool.json

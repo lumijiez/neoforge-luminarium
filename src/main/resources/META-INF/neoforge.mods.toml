@@ -37,11 +37,9 @@ displayName="Luminarium" #mandatory
 # A file name (in the root of the mod JAR) containing a logo for display
 #logoFile="examplemod.png" #optional
 
-# A text field displayed in the mod UI
-#credits="" #optional
+credits="me lol"
 
-# A text field displayed in the mod UI
-authors="Lumijiez" #optional
+authors="Lumijiez"
 
 # Display Test controls the display for your mod in the server connection screen
 # MATCH_VERSION means that your mod will cause a red X if the versions on client and server differ. This is the default behaviour and should be what you choose if you have server and client elements to your mod.
