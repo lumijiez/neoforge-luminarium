@@ -2,6 +2,7 @@
   "block.luminarium.radiant_ore": "Radiant Ore",
   "item.luminarium.luminarium_ingot": "Luminarium Ingot",
   "item.luminarium.luminarium_pie": "Luminarium Pie",
+  "item.luminarium.ore_detector": "Ore Detector",
   "item.luminarium.raw_luminarium_ore": "Raw Luminarium Ore",
   "itemGroup.luminarium": "Luminarium"
 }

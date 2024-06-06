@@ -1,4 +1,5 @@
-// 1.20.6	2024-06-05T21:27:48.4553637	Item Models: luminarium
+// 1.20.6	2024-06-06T23:44:53.7182446	Item Models: luminarium
 b20f02ec6078cee1bb0ff301a8b83bea8992a48c assets/luminarium/models/item/luminarium_ingot.json
 9a532de7dee78caa47a29a4a71f49e46f8862772 assets/luminarium/models/item/luminarium_pie.json
+a067cac0a1d74547c6496763fcd0f1ed349e1882 assets/luminarium/models/item/ore_detector.json
 27a6c3d6d62385ba24d93770206863e97e1b2b25 assets/luminarium/models/item/raw_luminarium_ore.json

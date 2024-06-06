@@ -16,6 +16,7 @@ public class L_en_US extends LanguageProvider {
         add(LItems.LUMINARIUM_PIE.asItem(), "Luminarium Pie");
         add(LItems.RAW_LUMINARIUM_ORE.asItem(), "Raw Luminarium Ore");
         add(LItems.LUMINARIUM_INGOT.asItem(), "Luminarium Ingot");
+        add(LItems.ORE_DETECTOR.asItem(), "Ore Detector");
 
         add(LBlocks.RADIANT_ORE.asItem(), "Radiant Ore");
 

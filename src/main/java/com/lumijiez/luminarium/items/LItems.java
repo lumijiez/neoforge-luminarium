@@ -2,6 +2,7 @@ package com.lumijiez.luminarium.items;
 
 import com.lumijiez.luminarium.Luminarium;
 import com.lumijiez.luminarium.blocks.LBlocks;
+import com.lumijiez.luminarium.items.custom.OreDetector;
 import net.minecraft.world.food.FoodProperties;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.CreativeModeTab;
@@ -50,5 +51,5 @@ public class LItems {
 
     //public static final DeferredItem<BlockItem> WAND_WIREFRAME_ITEM = ITEMS.registerSimpleBlockItem("wand_wireframe", LumBlockController.WAND_WIREFRAME);
     //public static final DeferredItem<Item> COBBLE_WAND = ITEMS.register("cobble_wand", CobbleWand::new);
-    //public static final DeferredItem<Item> BUILDER_WAND = ITEMS.register("builder_wand", BuilderWand::new);
+    public static final DeferredItem<Item> ORE_DETECTOR = ITEMS.register("ore_detector", OreDetector::new);
 }

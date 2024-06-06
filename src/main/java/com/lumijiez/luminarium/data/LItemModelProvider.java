@@ -15,6 +15,7 @@ public class LItemModelProvider extends ItemModelProvider {
         basicItem(LItems.LUMINARIUM_PIE.asItem());
         basicItem(LItems.LUMINARIUM_INGOT.asItem());
         basicItem(LItems.RAW_LUMINARIUM_ORE.asItem());
+        basicItem(LItems.ORE_DETECTOR.asItem());
 
         //basicItem(LumItemController.COBBLE_WAND.asItem());
         //basicItem(LumItemController.BUILDER_WAND.asItem());
