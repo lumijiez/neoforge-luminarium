@@ -1,6 +1,6 @@
-package com.lumijiez.lumiscope.blocks;
+package com.lumijiez.luminarium.blocks;
 
-import com.lumijiez.lumiscope.Luminarium;
+import com.lumijiez.luminarium.Luminarium;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.state.BlockBehaviour;
 import net.minecraft.world.level.material.MapColor;

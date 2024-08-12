@@ -1,7 +1,7 @@
-package com.lumijiez.lumiscope.tab;
+package com.lumijiez.luminarium.tab;
 
-import com.lumijiez.lumiscope.Luminarium;
-import com.lumijiez.lumiscope.items.ItemRegistrar;
+import com.lumijiez.luminarium.Luminarium;
+import com.lumijiez.luminarium.items.ItemRegistrar;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.item.CreativeModeTab;

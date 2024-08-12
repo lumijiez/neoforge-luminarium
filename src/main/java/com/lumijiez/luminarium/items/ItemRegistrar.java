@@ -1,13 +1,13 @@
-package com.lumijiez.lumiscope.items;
+package com.lumijiez.luminarium.items;
 
-import com.lumijiez.lumiscope.Luminarium;
+import com.lumijiez.luminarium.Luminarium;
 import net.minecraft.world.food.FoodProperties;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.Item;
 import net.neoforged.neoforge.registries.DeferredItem;
 import net.neoforged.neoforge.registries.DeferredRegister;
 
-import static com.lumijiez.lumiscope.blocks.BlockRegistrar.EXAMPLE_BLOCK;
+import static com.lumijiez.luminarium.blocks.BlockRegistrar.EXAMPLE_BLOCK;
 
 public class ItemRegistrar {
     public static final DeferredRegister.Items ITEMS = DeferredRegister.createItems(Luminarium.MODID);

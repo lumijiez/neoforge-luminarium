@@ -1,7 +1,7 @@
-package com.lumijiez.lumiscope;
+package com.lumijiez.luminarium;
 
-import com.lumijiez.lumiscope.events.RadarEventHandler;
-import com.lumijiez.lumiscope.handlers.CoreRegistrar;
+import com.lumijiez.luminarium.events.RadarEventHandler;
+import com.lumijiez.luminarium.handlers.CoreRegistrar;
 import com.mojang.logging.LogUtils;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.fml.ModContainer;

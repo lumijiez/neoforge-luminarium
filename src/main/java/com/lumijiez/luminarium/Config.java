@@ -1,4 +1,4 @@
-package com.lumijiez.lumiscope;
+package com.lumijiez.luminarium;
 
 import java.util.List;
 import java.util.Set;
