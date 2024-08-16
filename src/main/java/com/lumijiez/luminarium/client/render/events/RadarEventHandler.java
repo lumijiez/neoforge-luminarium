@@ -1,4 +1,4 @@
-package com.lumijiez.luminarium.events;
+package com.lumijiez.luminarium.client.render.events;
 
 import com.mojang.blaze3d.vertex.PoseStack;
 import com.mojang.blaze3d.vertex.VertexConsumer;
@@ -29,7 +29,6 @@ public class RadarEventHandler {
     }
 
     protected void renderCircle(PoseStack poseStack, MultiBufferSource bufferSource) {
-        Minecraft mc = Minecraft.getInstance();
 
         double offsetX = 0.0;
         double offsetY = -2.0;

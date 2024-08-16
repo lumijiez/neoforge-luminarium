@@ -1,8 +1,8 @@
-package com.lumijiez.luminarium.handlers;
+package com.lumijiez.luminarium.common.handlers;
 
-import com.lumijiez.luminarium.blocks.BlockRegistrar;
-import com.lumijiez.luminarium.items.ItemRegistrar;
-import com.lumijiez.luminarium.tab.LumiscopeTab;
+import com.lumijiez.luminarium.common.blocks.BlockRegistrar;
+import com.lumijiez.luminarium.common.items.ItemRegistrar;
+import com.lumijiez.luminarium.common.tab.LumiscopeTab;
 import net.neoforged.bus.api.IEventBus;
 
 

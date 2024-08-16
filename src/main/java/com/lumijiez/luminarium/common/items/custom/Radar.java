@@ -1,4 +1,4 @@
-package com.lumijiez.luminarium.items.custom;
+package com.lumijiez.luminarium.common.items.custom;
 
 import net.minecraft.world.InteractionResult;
 import net.minecraft.world.item.Item;

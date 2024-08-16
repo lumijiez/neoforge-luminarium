@@ -1,4 +1,4 @@
-package com.lumijiez.luminarium.blocks;
+package com.lumijiez.luminarium.common.blocks;
 
 import com.lumijiez.luminarium.Luminarium;
 import net.minecraft.world.level.block.Block;
